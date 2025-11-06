@@ -1,3 +1,19 @@
+# Vamos a cambiar el modo de presentar la pantalla por medio de nombres independientes para posteriormente hacer colisión
+# Se agregan las dimensiones para el personaje con respecto a la pantalla
+#Se agregan las variables de velocidad turbo rapidita y la velocidad como 'vel' normal
+    #Se agrega el comando de teclado para shift y avance más rápidito
+    #Estas son delimitaciones creadas de acuerdo al tamaño de la pantalla y del personaje
+    #Para el cambio de color, hay que cambiar el tono en RGB, en este caso lo puse rosa
+
+
+
+
+
+
+
+
+
+
 # 🎮 Curso de Gráficación con Pygame  
 ## Prácticas básicas de creación de juegos
 
