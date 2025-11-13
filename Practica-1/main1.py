@@ -1,6 +1,6 @@
 import pygame
 import sys
-
+ 
 pygame.init()
 
 #pantalla = pygame.display.set_mode((600, 400))
