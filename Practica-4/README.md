@@ -1,3 +1,15 @@
+Para esta práctica, se revisó que la música de los efectos es .wav, mientras que la música de fondo 
+para un bucle, debe de ser formato .mp3, se utilizó un convertor externo en la siguiente liga de:
+https://convertio.co/es/download/b8354f6edd0e4b880ac9eb885faa50ad2f868a/ para poder cambiar formato
+De ahí se hizo un respawn del enemigo en las coordenadas de pantalla aleatoria pero que aún así dieran
+un espacio para que no se encimaran con las de nuestro jugador, a quien se le dio la instrucción de que
+se pueda mover en el eje de las 'y' de arriba a abajo para poder manipularlo con las flechas y así 
+poder pegarle al enemigo en donde sea que haya respawneado. También se puso una variable de contador
+de puntos para que se viera en la pantalla cuántos dispaos se han acertado contra el mono enemigo.
+
+
+
+
 ## 🧩 Práctica 4: Colisiones
 
 **Tema:** Detección de choques entre objetos.
