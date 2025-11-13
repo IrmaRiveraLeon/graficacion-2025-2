@@ -1,5 +1,5 @@
 import math
-import pygame
+import pygame 
 
 pygame.init()
 pygame.mixer.pre_init(44100, -16, 1, 512)
@@ -25,7 +25,7 @@ running = True
 aim_dir = (1, 0)
 
 # Cargar sonido (aseguras que shot.wav esté en la carpeta)
-shoot_sound = pygame.mixer.Sound("shot.wav")
+shoot_sound = pygame.mixer.Sound("shot.wav") #Se agregó la canción a la carpeta
 
 def normalizar(vx, vy):
     mag = math.hypot(vx, vy)
