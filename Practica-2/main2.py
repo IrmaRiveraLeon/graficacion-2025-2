@@ -1,6 +1,6 @@
 import pygame
 import sys
-pygame.init()
+pygame.init() 
 
 pantalla = pygame.display.set_mode((600, 400))
 pygame.display.set_caption("Práctica 2 - Doble Salto Fluido")
