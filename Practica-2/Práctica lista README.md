@@ -1,3 +1,11 @@
+Se agregaró un cambio de fuerza en el salto, la línea que lo hace es la de la vel al caer
+Se agregó una condición en donde existe un doble salto que hasta incluye un cambio de color,
+para eso se hizo un contador tipo variable de salto en la que el salto podía ser doble para
+volver a ser contabilizado por el contador de la condición.
+Por último, se agregó un rectángulo como suelo con las coordenadas en x y de color verde.
+
+
+
 ## 🧩 Práctica 2: Saltos y gravedad
 
 **Tema:** Simular un salto realista con gravedad.
